@@ -11,9 +11,6 @@ This repository contains notes for the AWS Cloud Practitioner Essentials Course,
 ## Installation
 
 1. Install [Obsidian](https://obsidian.md/download).
-2. Clone this repository `https://github.com/LaiAnTan/42KL-Piscine-Cloud`
-3. Open Obsidian > Open Folder As Vault > Select the cloned repository
-
-## Gallery
-
+2. Clone this repository `git clone https://github.com/LaiAnTan/42KL-Piscine-Cloud`
+3. Open Obsidian > Open Folder As Vault > Select the cloned repository.
 

@@ -8,6 +8,3 @@ Only pay for when the code is running.
 > 1. Code is uploaded into a **Lambda function**
 > 2. Trigger for the Lambda function to run is configured
 > 3. When trigger is detected, code is run
-
-
-

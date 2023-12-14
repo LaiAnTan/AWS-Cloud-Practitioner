@@ -11,3 +11,4 @@ There are many AWS services that are serverless, such as:
 - [[Amazon Simple Queue Service (SQS)]]
 - [[Amazon Simple Storage Service (S3)]]
 - [[Amazon DynamoDB]]
+- [[AWS Glue]]

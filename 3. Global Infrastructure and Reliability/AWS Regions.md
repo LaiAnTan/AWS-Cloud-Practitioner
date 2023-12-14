@@ -14,4 +14,3 @@ When selecting a Region for an AWS Service, there are four factors that must be 
 4. Pricing (some regions are more difficult to host from, i.e. Brazil)
 
 Within each Region, there exists [[AWS Availability Zones|Availability Zones]].
-

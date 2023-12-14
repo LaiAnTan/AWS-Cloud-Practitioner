@@ -7,3 +7,7 @@ A benefit of serverless computing is that it is flexible, i.e. it can be scale a
 There are many AWS services that are serverless, such as:
 - [[AWS Lambda]]
 - [[AWS Fargate]]
+- [[Amazon Simple Notification Service (SNS)]]
+- [[Amazon Simple Queue Service (SQS)]]
+- [[Amazon Simple Storage Service (S3)]]
+- [[Amazon DynamoDB]]

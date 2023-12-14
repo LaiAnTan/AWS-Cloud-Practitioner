@@ -10,7 +10,7 @@ Basic support is free for all customers.
 - Access to whitepapers, documentation, support communities
 - Contact AWS for billing questions and service limit increases
 - Limited selection of [[AWS Trusted Advisor]] checks
-- AWS Personal Health Dashboard access
+- [[AWS Personal Health Dashboard]] access
 
 ---
 Starting here, all supports plans are paid and contains all features of lower tier support plans.

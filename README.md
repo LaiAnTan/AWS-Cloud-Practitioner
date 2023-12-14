@@ -4,7 +4,7 @@
 
 This repository contains notes for the AWS Cloud Practitioner Essentials Course, in preparation for the AWS Cloud Practitioner Essential Certification Examination, written in Obsidian.
 
-![Obsidian Graph](./../Attachments/graph.png)
+![Obsidian Graph](./Attachments/graph.png)
 
 ---
 

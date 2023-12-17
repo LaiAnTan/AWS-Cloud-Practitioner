@@ -14,5 +14,5 @@ This repository contains notes in preparation for the AWS Cloud Practitioner Cer
 ## Installation
 
 1. Install [Obsidian](https://obsidian.md/download).
-2. Clone this repository `git clone https://github.com/LaiAnTan/42KL-Piscine-Cloud`
+2. Clone this repository `git clone https://github.com/LaiAnTan/AWS-Cloud-Practitioner`
 3. Open Obsidian > Open Folder As Vault > Select the cloned repository.

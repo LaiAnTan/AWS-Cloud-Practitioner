@@ -1,8 +1,8 @@
-# 42KL-Piscine-Cloud
-
-42KL's Piscine for obtaining the AWS Cloud Practitioner Essentials Certification.
+# AWS-Cloud-Practitioner
 
 This repository contains notes in preparation for the AWS Cloud Practitioner Certification Exam (CLF-C02), written in Obsidian.
+
+---
 
 ![Obsidian Graph](./Attachments/graph.png)
 
